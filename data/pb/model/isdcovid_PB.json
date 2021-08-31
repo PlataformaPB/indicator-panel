@@ -1,7 +1,7 @@
 {
    "dataversion":"v1.0.0-beta",
-   "key":"COVID-19PB",
-   "description":"Índices da COVID-19 PB",
+   "key":"IPSA-COVID-19",
+   "description":"Index IPSA - Índice da Proteção Social Ampliada - COVID-19 - PB",
    "nodes":[
       {
          "key":"ISD-COVID-19",
@@ -196,15 +196,15 @@
          ]
       },
       {
-         "key":"IPSA-COVID-19",
-         "description":"Índice de Proteção Social Ampliado - COVID-19",
+         "key":"IPS-COVID-19",
+         "description":"Índice de Proteção Social - COVID-19",
          "nodes":[
             {
-               "key":"DIMENSAOIPSA-I",
+               "key":"DIMENSAOIPS-I",
                "description":"Dimensão I - Dimensão da Segurança de Renda na Pandemia",
                "nodes":[
                   {
-                     "key":"SUBIPSA-I1",
+                     "key":"SUBIPS-I1",
                      "description":"Segurança de renda pela condição de acesso ao auxílio emergencial",
                      "nodes":[
                         {
@@ -225,7 +225,7 @@
                      ]
                   },
                   {
-                     "key":"SUBIPSA-I2",
+                     "key":"SUBIPS-I2",
                      "description":"Segurança de renda pela cobertura no território",
                      "nodes":[
                         {
@@ -248,11 +248,11 @@
                ]
             },
             {
-               "key":"DIMENSAOIPSA-II",
+               "key":"DIMENSAOIPS-II",
                "description":"Dimensão II - Dimensão da Oferta de Serviços de Proteção Social no Território",
                "nodes":[
                   {
-                     "key":"SUBIPSA-II1",
+                     "key":"SUBIPS-II1",
                      "description":"Serviços públicos de Proteção Social do SUAS - Básica e Especial",
                      "nodes":[
                         {
