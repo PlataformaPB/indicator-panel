@@ -7,7 +7,7 @@
             "geoFilePath":"data/pb/geo/munis-PB.geojson",
             "mapLegendFilePath":"data/pb/geo/legend.json",
             "mapLegendImgPath":"data/rmvale/geo/legend.png",
-            "mapLegendTxt":{"left":"Menor vulnerabilidade/Maior acesso (0)","right":"Maior vulnerabilidade/Menor acesso (1)"},
+            "mapLegendTxt":{"left":"Maior acesso a ativos (0)","right":"Menor acesso a ativos (1)"},
             "csvPath":"data/pb/csv/",
             "pdfPath":"data/pb/pdf/",
             "shortName":"COVID-19 PB",
@@ -19,12 +19,12 @@
             "geoFilePath": "data/pb2/geo/munis-PB.geojson",
             "mapLegendFilePath": "data/pb2/geo/legend.json",
             "mapLegendImgPath": "data/rmvale/geo/legend.png",
-            "mapLegendTxt": {"left": "Menor vulnerabilidade/Maior acesso (0)",
-                             "right": "Maior vulnerabilidade/Menor acesso (1)"},
+            "mapLegendTxt": {"left": "Maior acesso a ativos (0)",
+                             "right": "Menor acesso a ativos (1)"},
             "csvPath": "data/pb2/csv/",
             "pdfPath": "data/pb2/pdf/",
             "shortName": "COVID-19 PB/Indicadores",
-            "panelTitle": "Plataforma COVID-19 - Paraíba: indicadores avulsos"
+            "panelTitle": "Plataforma COVID-19 - Paraíba: indicadores auxiliares"
         }
     ]
 }
