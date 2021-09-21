@@ -257,7 +257,7 @@
                      "nodes":[
                         {
                            "key":"V07",
-                           "description":"Taxa de beneficiários PBF (por hab)",
+                           "description":"Taxa bruta da presença de serviços da PSB (por hab)",
                            "externalfile":"VP07.pdf"
                         },
                         {
